@@ -1,0 +1,1 @@
+# API Model for Joomla MVC
